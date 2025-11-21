@@ -49,5 +49,45 @@ Visualization:Power BI
   </tbody>
 </table>
 
+<h2>Chart Requirements and Analysis</h2>
+<p>To address the project goals, the analysis should focus on these essential visualizations:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Chart Type</th>
+      <th>Analysis Goal</th>
+      <th>Data Columns Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bar Chart</td>
+      <td>Total Profit and Revenue by Region and Item Type</td>
+      <td>Region, Item Type, Total Profit, Total Revenue</td>
+    </tr>
+    <tr>
+      <td>Line Chart</td>
+      <td>Revenue Trend Over Time (Monthly/Quarterly) to show seasonality</td>
+      <td>Order Date, Total Revenue</td>
+    </tr>
+    <tr>
+      <td>Pie/Donut Chart</td>
+      <td>Breakdown of Total Units Sold by Sales Channel (Online vs. Offline)</td>
+      <td>Sales Channel, Units Sold</td>
+    </tr>
+    <tr>
+      <td>Stacked Bar Chart</td>
+      <td>Profitability (Total Profit) broken down by Order Priority for each Region</td>
+      <td>Region, Order Priority, Total Profit</td>
+    </tr>
+    <tr>
+      <td>Scatter Plot</td>
+      <td>Relationship between Unit Price and Unit Cost by Item Type</td>
+      <td>Unit Price, Unit Cost, Item Type</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
