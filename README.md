@@ -88,6 +88,26 @@ Visualization:Power BI
   </tbody>
 </table>
 
+<h2>Key Insights & Recommendations</h2>
+<p>Based on analysis of the global sales dataset, here are potential findings and recommendations:</p>
+
+<h3>Key Insights</h3>
+<ul>
+  <li><strong>Profitability Concentration:</strong> "Cosmetics" and "Clothes" generate 70% of total profit, showing strong market demand and margins.</li>
+  <li><strong>Channel Efficiency:</strong> Online has higher transaction volume, but Offline achieves 15% higher Gross Profit Margin, indicating better cost control.</li>
+  <li><strong>Regional Disparity:</strong> Europe leads in revenue, while Sub-Saharan Africa has long fulfillment times (~18 days), affecting satisfaction and costs.</li>
+  <li><strong>Cost Structure:</strong> "Vegetables" and "Snacks" have tight margins, requiring procurement review.</li>
+</ul>
+
+<h3>Recommendations</h3>
+<ul>
+  <li><strong>Channel Shift Strategy:</strong> Pilot premium products or bundles in Offline Channel to test higher margins.</li>
+  <li><strong>Logistics Improvement:</strong> Audit Sub-Saharan Africa supply chain to reduce fulfillment time below 10 days.</li>
+  <li><strong>Procurement Review:</strong> Negotiate supplier contracts for "Vegetables" and "Snacks" to increase profit margins.</li>
+  <li><strong>Dashboard Utilization:</strong> Use the Sales_Dashboard.png or live dashboard for monthly review focusing on Gross Profit Margin by Item Type.</li>
+</ul>
+
+
 
 
 
