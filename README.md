@@ -12,3 +12,8 @@ This Sales Performance Dashboard highlights key metrics like revenue, profit, un
   <li>What are the primary trends in sales performance over time based on Order Date and Ship Date?</li>
 </ul>
 
+<h2>Technology Stack</h2>
+Data Storage:CSV File <br>
+Visualization:Power BI
+
+
