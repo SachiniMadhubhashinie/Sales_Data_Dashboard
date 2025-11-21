@@ -16,4 +16,38 @@ This Sales Performance Dashboard highlights key metrics like revenue, profit, un
 Data Storage:CSV File <br>
 Visualization:Power BI
 
+<h2>Key Performance Indicators (KPIs)</h2>
+<p>These core metrics are crucial for measuring financial success and operational efficiency:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>KPI</th>
+      <th>Business Significance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total Revenue</td>
+      <td>Overall measure of sales achievement.</td>
+    </tr>
+    <tr>
+      <td>Gross Profit Margin</td>
+      <td>Measures the efficiency of the sales process; how much profit is generated per dollar of revenue.</td>
+    </tr>
+    <tr>
+      <td>Average Unit Price (AUP)</td>
+      <td>Measures the average selling price of a unit across all transactions.</td>
+    </tr>
+    <tr>
+      <td>Sales Channel Effectiveness</td>
+      <td>Identifies which channel is more profitable and efficient.</td>
+    </tr>
+    <tr>
+      <td>Fulfillment Lead Time</td>
+      <td>Measures the speed and efficiency of the logistics/delivery process.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
